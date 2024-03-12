@@ -1,0 +1,9 @@
+{
+	"name": "madalena",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4b2a6500-2bbb-4c96-8d38-7449a9b68598",
+		"tenantId": "4634aa4e-893f-48e8-b6f2-1ebcd9b4e39f"
+	}
+}
